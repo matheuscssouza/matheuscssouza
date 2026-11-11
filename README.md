@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheuscssouza"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:arte.matheussouza@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white"></a>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-matheuscssouza-0A66C2?logo=linkedin&logoColor=white">
+  <img alt="Email" src="https://img.shields.io/badge/Email-arte.matheussouza%40gmail.com-EA4335?logo=gmail&logoColor=white">
 </p>
 
 ## About
@@ -35,15 +35,7 @@ Public case study of a multi-tenant SaaS for pet shops and vet clinics: architec
 
 Learning through my degree: Java, databases, data structures and algorithms.
 
-## Latest activity
-
-<!-- RECENT:START -->
-- `claude-usage-meter` · docs: add reproducible screenshots rendered from sample data · 2026-11-11
-- `claude-usage-meter` · refactor!: make the tool a standalone repo, English-only and modular · 2026-11-11
-- `claude-usage-meter` · fix(medidor-claude): harden state files and settings backups · 2026-11-11
-- `petshop-saas-showcase` · docs: ADR 0014 — frontend Next.js sobre API REST · 2026-10-15
-- `petshop-saas-showcase` · docs: ADR 0013 aprovação 4 olhos e estorno · 2026-10-14
-<!-- RECENT:END -->
+Coursework from the degree lives in [university](https://github.com/matheuscssouza/university).
 
 ## What I'm into
 
