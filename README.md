@@ -1,36 +1,30 @@
-# Olá, seja bem-vindo(a)! 👋
+# Hi, I'm Matheus Souza
 
-Sou estudante de **Engenharia de Software** na Cruzeiro do Sul, com foco em desenvolvimento **backend**. Venho de uma trajetória prática na produção audiovisual, onde acumulo hoje duas frentes: gestão de produção de filmes e infraestrutura de TI de um estúdio — e é essa vivência de resolver problemas reais, com prazo e cliente esperando, que trago para a área de tecnologia.
+Software Engineering student focused on **backend development** (Python and Java). Before moving into software I worked in audiovisual production, where I now run two fronts: film production management and the IT infrastructure of a studio. That habit of solving real problems with a deadline and a client waiting is what I bring to engineering.
 
-Estou cursando Engenharia de Software para formalizar e aprofundar tecnicamente o que já venho construindo na prática: estruturas de dados, arquitetura de sistemas, testes e boas práticas de engenharia.
+I'm studying Software Engineering to formalize what I already build in practice: data structures, system architecture, testing and engineering discipline.
 
----
+## Featured work
 
-## 🚀 Stack e Tecnologias
+| Project | What it is | Stack |
+|---|---|---|
+| [**claude-usage-meter**](https://github.com/matheuscssouza/claude-usage-meter) | macOS menu bar app and status line that show Claude Code usage limits, per-session health and a prompt caching countdown. Open source, with CI and tests. | Swift, SwiftUI, Bash |
+| [**petshop-saas-showcase**](https://github.com/matheuscssouza/petshop-saas-showcase) | Public case study of a multi-tenant SaaS for pet shops and vet clinics: architecture, 14 decision records (ADRs) and the data model. The source code is private. | Django, PostgreSQL (RLS), Next.js |
+| [**ong-plataforma-frontend**](https://github.com/matheuscssouza/ong-plataforma-frontend) | Accessible, responsive NGO website: semantic HTML5, a CSS design system and a modular vanilla-JS single-page app. Live on GitHub Pages. | HTML, CSS, JavaScript |
 
-**Em uso na prática / domínio atual:**
-- Python
-- Node.js
-- Git
-- Infraestrutura e Administração de Servidores
+## Stack
 
-**Em desenvolvimento sólido (formação acadêmica):**
-- Java
-- Bancos de Dados
-- Estruturas de Dados e Algoritmos
+**Working with day to day:** Python · Node.js · Git · server administration and infrastructure
 
----
+**Building up through my degree:** Java · databases · data structures and algorithms
 
-## 💡 Interesses de Desenvolvimento
+## What I'm into
 
-- Automação de processos e pipelines
-- Desenvolvimento backend (Python e Java)
-- Arquitetura de sistemas e boas práticas de engenharia
-- IA generativa aplicada a fluxos de trabalho reais
+- Automation of processes and pipelines
+- Backend development and API design
+- Architecture and engineering practices (decision records, testing, CI)
+- Generative AI applied to real workflows
 
----
+## Contact
 
-## 📫 Como me encontrar
-
-- LinkedIn: www.linkedin.com/in/matheuscssouza
-- E-mail: arte.matheussouza@gmail.com
+[LinkedIn](https://www.linkedin.com/in/matheuscssouza) · [Email](mailto:arte.matheussouza@gmail.com)
